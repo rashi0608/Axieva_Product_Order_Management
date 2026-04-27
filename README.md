@@ -64,3 +64,4 @@ Troubleshooting & common issues
 	•  Change server port with --server.port=PORT on startup if port conflicts occur.
 	•  To clear and re-seed H2: stop server, delete H2 files (if any), and restart; data.sql will run on startup.
 
+NOTE: I didn't uploaded node_modules(which are installed by running npm install comand on VS Code) and Product_Order_Management-0.0.1-SNAPSHOT(Which is an auto generated files) folder as its size is more then 25mb, due to which I was not able to upload in zip as well
